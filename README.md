@@ -1,8 +1,9 @@
 # Minecraft-Mod-tutorial
 Proyect for my minecraft mods creation tutorial with spigot
 
-##Requirements
+## Requirements
 Minecraft spigot server version 1.8.7
+
 ## Tutorial link
 <a href="https://docs.google.com/document/d/14C9LZBecnzbqpL3aQhzTs6HsrwVC_uabqqDXnkbo0Qs/edit?usp=sharing ">My spanish tutorial</a>
 
