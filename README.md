@@ -6,3 +6,6 @@ Proyect for my minecraft mods creation tutorial with spigot
 
 ## Tutorial link
 <a href="https://docs.google.com/document/d/14C9LZBecnzbqpL3aQhzTs6HsrwVC_uabqqDXnkbo0Qs/edit?usp=sharing ">spanish tutorial</a>
+
+## References
+<a href="https://www.amazon.es/Absolute-Beginners-Guide-Minecraft-Programming-ebook/dp/B0161KTFH6">Rogers Cadenhead Book</a>
