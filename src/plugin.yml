@@ -1,0 +1,7 @@
+name: SpawnMontura
+author: braiso_22
+main: com.javaminecraft.SpawnMontura
+commands:
+    spawnmontura:
+        description: Genera un caballo domesticado al lado del jugador
+version: 1.0
